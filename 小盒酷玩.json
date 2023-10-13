@@ -1,44 +1,44 @@
 //全部数据来自网络和各大佬资源整合
-//软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
+//软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后 24 小时内删除             24 小时内删除
 //QQ频道：小盒酷玩    
 //公众号：小盒酷玩
-//QQ交流群：817925554
+ //QQ交流群： 65839565
 
 {
 
-"warningText":"小盒酷玩提醒：每次使用前记得长按主页刷新接口",    
+             "warningText" "warningText": "小盒酷玩提醒：每次使用前记得长按主页刷新接口" ,                 "小盒酷玩提醒：每次使用前记得长按主页刷新接口" ,    
 
 
-"sites":[
+            "sites" "sites": [         [
 
-{"key": "豆瓣","name": "🎯小盒酷玩丨Q群：817925554","type": 3,"api": "./lib/apiv19drpy2.min.js","ext": "./lib/douban.js"},
+       {       "key"     [ "键": "电晕" , "名称" : "大象----小龙" , "型号" : 3 , "API" : "。" ","扩大":"。/利布/杜班"豆瓣", "name" : "小龙下集:817925554" , "type" : 3 , "api" : "./lib/apiv19drpy2.min.js" , "ext" : "./lib/douban.js"   } ,
 
-{"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./lib/tok.txt"},
+           {           "key"           {           "键" : "CSP_WogG" , "名称" : "象象云盘" , "类型" : 3 , "API" : "CSP_WogG" , "可搜索" : 1 , "快速搜寻" : 1 , "可更改" : 0 , "电话分机" : "。/利布/托卡" "CSP_WogG", "名称" : "型号" , "型号" : 3 ,"API" : , : : 1 , "可更改"}
 
-{"key": "酷玩","name":"🎯酷玩┃云盘","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext":  {"token": "98d854b9ad834c4d90dfd4b2d8afcd54","filter": "http://小盒酷玩.fun:66/json/wogg.json"},"jar": "./lib/wogg.jar"},
+       "key" : "酷玩" ,       
 
-{"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482","searchable": 1,"quickSearch": 1,"filterable": 1},
+      {      "key" : "xml_玩偶" , "name" : "父亲和母亲" , "type" : 4 , "api" : "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482" , "searchable" : 1 , "quickSearch" : 1 , "filterable" : 1     } ,
 
-{"key":"米诺影视","name":"⛅MINO┃影视","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"./lib/Appto.jar"},
+      {      "key" : "米诺影视" , "name" : "⛅MINO┃影视" , "type" : 3 , "api" : "csp_Appto" , "ext" : "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx" , "jar" : "./lib/Appto.jar"     } ,
 
-{ "key": "路人", "name": "🏃路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
+   {    "key" : "路人" , "name" : "新大陆" , "type" : 3 , "api" : "csp_AppYsV2" , "searchable" : 1 , "quickSearch" : 1 , "filterable" : 1 , "ext" : "http://mp4.ghlyys.com:916/api.php/app/"  } ,
 
-{"key": "maolv_open","name": "🐴毛驴┃TV","type": 3,"playerType": 1,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"jar": "./lib/ML.jar"},
+     {     "key"    [ "键": "Maolv_开放" , "名称" : "汤----科美电视" , "类型" : 3 , "播放器类型" : 1 , "API" : "csp_maolv" , "可搜索" : 1 , "可过滤" : 0 , "可变" : 1 , "JAR" : "。/利布/贾尔博士"   } , }
 
-{"key": "csp_AppYsV2_大鹏","name": "🍳大鹏┃TV","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
+           "键" :  
 
-{"key": "csp_XBPQ_好戏", "name": "👹好戏┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": "./lib/好戏.json"},
+     {     "key"     {     "键" :"键" : "Csp_xbpq_31-" , "名称" : "型号" : 3 , "API" : "Csp_xbpq" , "可搜索" : 1 , "快速搜寻" : 1 , "可过滤" : 1 , "可过滤" : 1 , "csp_XBPQ_好戏"
+ "ext": "./lib/好戏.json"      } , } , "./lib/好戏.json"
 
-{"key":"大鹏","name":"🦇嘉靓┃TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
+  "key"   "关键" : 、 : 、 : , : 、 : , : , : , : , : , : , : , : ,,: 3     "名称" :
 
-{"key":"ytvip","name":"🕵影探┃TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"./lib/YT.jar"},
+    "key"    ,
 
-{"key":"追忆","name":"🌠追忆┃TV","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"./lib/Appto.jar"},
+ { "关键" Ojexmjivyxbwdg 8 vdjE","jar":"./lib/Appto.jar" } ,
 
-{"key": "csp_AppYsV2_玉米","name": "🌽玉米┃切片","type": 3,"api": "csp_AppYsV2","playUrl": "http://61.147.93.21:8090/index.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ym.dytt996.com:3/api.php/app/"},
+{"key"{"键":"CSP_APpysv2_玉米","名称":"豚鼠玉米],"型":3,"API":"Csp_APpysv2","PAPurl":"http://61.147.93.21:8090/INDP.php?URL=","可搜索":1,"快速搜索":1,"可过滤":1,"扩展":"http://YM.dytt.com:3/AP.php/p/"}""csp_AppYsV2_玉米","name": "🌽玉米┃切片","type": 3,"api": "csp_AppYsV2","playUrl": "http://61.147.93.21:8090/index.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ym.dytt996.com:3/api.php/app/"},
 
-{"key": "熊猫","name": "🐼熊猫┃追剧","type": 3,"api": "csp_XBPQ","ext": "./lib/熊猫.json"},
+{"key"{"键":"群系","名":"骆驼系列后剧","型":3,"API":"Csp_xbpq","扩展":"。/"自由"/"美国","熊猫","name": "🐼熊猫┃追剧","type": 3,"api": "csp_XBPQ","ext": "./lib/熊猫.json"},
 
 {"key":"酷影","name":"🧿酷影┃TV","type":3, "api":"csp_AppYsV2","searchable":1, "quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:16285/api.php/app/"},
 
@@ -58,9 +58,9 @@
 
 {"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/子子.json"},
 
-{"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./lib/虎虎.json"},
+{"key"{"钥匙":"虎虎"、"名称":"街虎电视"、 "型号" :3,"API":"Csp_xbpq"、"电话分机"。/利布/虎鲸.杰森,"虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "./lib/虎虎.json"},
 
-{"key": "小鹿","name": "🦌小鹿┃影视","type": 3,"api": "csp_XBPQ","ext":"./lib/小鹿.json"}, 
+{"key"{"键":"小鹿"、"名称":"鼠-小鹿"、"型":3,"API":"Csp_xbpq"、"电话分机"。/利布/小贝·杰森,"小鹿","name": "🦌小鹿┃影视","type": 3,"api": "csp_XBPQ","ext":"./lib/小鹿.json"}, 
 
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/freeok.json"}, 
 
